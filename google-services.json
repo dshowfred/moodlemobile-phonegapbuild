@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656841516657",
+    "firebase_url": "https://feicom-learning-base.firebaseio.com",
+    "project_id": "feicom-learning-base",
+    "storage_bucket": "feicom-learning-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656841516657:android:9d94162269efbe32",
+        "android_client_info": {
+          "package_name": "com.feicom.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656841516657-ti3lga1jm8iqa8rcoj96q4kuu110rpbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzDTHwEtnqDq2I4PLNL_abQDtjJwbyui4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656841516657-ti3lga1jm8iqa8rcoj96q4kuu110rpbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

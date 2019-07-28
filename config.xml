@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "20230"
-        version   = "3.4.2">
-    <name>Moodle Mobile</name>
+        id        = "com.feicom.mobile"
+        versionCode = "1000"
+        version   = "1.0.0">
+    <name>Feicom</name>
 
     <description>
-        Moodle Mobile official app
+        Feilan official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://www.odoo.co.ke" email="admin@odoo.co.ke">
+        Metro ICT
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
