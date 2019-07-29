@@ -55,10 +55,10 @@
         "zh-tw": "正體中文"
     },
     "wsservice": "feicom_mobile_app",
-    "wsextservice": "local_mobile",
-    "presets" : {"url": "https://feicom.co.ke", "username": ""},
+    "wsextservice": "local_mobile",    
     },
     "customurlscheme": "moodlemobile",
+    "presets" : {"url": "https://feicom.co.ke"},
     "siteurl": "https://feicom.co.ke",
     "sitename": "Feicom Learning Base",
     "multisitesdisplay": "",
